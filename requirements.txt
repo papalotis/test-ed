@@ -3,3 +3,4 @@ numba
 scipy
 matplotlib
 plotly
+cffi==1.15.1
